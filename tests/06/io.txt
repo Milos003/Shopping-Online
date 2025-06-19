@@ -1,0 +1,68 @@
+> 
+> Welcome to the
+> Electronic Shopping Process!
+> 
+> What do you want to name your shopping list?
+?  > 
+< QUIT
+> 
+> Item 1:
+> What do you want to add?
+?  > 
+< DONE
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 2:
+> What do you want to add?
+?  > 
+< Done
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 3:
+> What do you want to add?
+?  > 
+< Quit
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 4:
+> What do you want to add?
+?  > 
+< dOne
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 5:
+> What do you want to add?
+?  > 
+< doNe
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 6:
+> What do you want to add?
+?  > 
+< quiT
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 7:
+> What do you want to add?
+?  > 
+< done
+> 
+> Shopping list: QUIT
+>  * 1 DONE
+>  * 1 Done
+>  * 1 Quit
+>  * 1 dOne
+>  * 1 doNe
+>  * 1 quiT

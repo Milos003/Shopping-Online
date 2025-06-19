@@ -1,0 +1,12 @@
+> 
+> Welcome to the
+> Electronic Shopping Process!
+> 
+> What do you want to name your shopping list?
+?  > 
+< My Shopping List
+> 
+> Item 1:
+> What do you want to add?
+?  > 
+< quit

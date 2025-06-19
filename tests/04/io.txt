@@ -1,0 +1,25 @@
+> 
+> Welcome to the
+> Electronic Shopping Process!
+> 
+> What do you want to name your shopping list?
+?  > 
+< Leisure Shopping
+> 
+> Item 1:
+> What do you want to add?
+?  > 
+< t-shirt
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< all of them
+> [ERROR] The quantity must be an integer!
+> 
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 2
+> 
+> Item 2:
+> What do you want to add?
+?  > 
+< quit

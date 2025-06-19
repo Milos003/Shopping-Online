@@ -1,0 +1,6 @@
+valgrind_logs/
+a3
+captured_output.txt
+testreport.html
+.vscode
+.DS_Store

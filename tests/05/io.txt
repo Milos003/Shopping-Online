@@ -1,0 +1,50 @@
+> 
+> Welcome to the
+> Electronic Shopping Process!
+> 
+> What do you want to name your shopping list?
+?  > 
+< Weekend shopping
+> 
+> Item 1:
+> What do you want to add?
+?  > 
+< apples
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 5
+> 
+> Item 2:
+> What do you want to add?
+?  > 
+< chocolate
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 3:
+> What do you want to add?
+?  > 
+< eggs
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 4
+> 
+> Item 4:
+> What do you want to add?
+?  > 
+< olive oil
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 750
+> 
+> Item 5:
+> What do you want to add?
+?  > 
+< done
+> 
+> Shopping list: Weekend shopping
+>  * 5 apples
+>  * 1 chocolate
+>  * 4 eggs
+>  * 750 olive oil

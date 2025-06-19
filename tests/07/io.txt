@@ -1,0 +1,68 @@
+> 
+> Welcome to the
+> Electronic Shopping Process!
+> 
+> What do you want to name your shopping list?
+?  > 
+< Mixed produce
+> 
+> Item 1:
+> What do you want to add?
+?  > 
+< tomatoes
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 1
+> 
+> Item 2:
+> What do you want to add?
+?  > 
+< Paprika
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 2
+> 
+> Item 3:
+> What do you want to add?
+?  > 
+< Paprica
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 3
+> 
+> Item 4:
+> What do you want to add?
+?  > 
+< Cucumber
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 4
+> 
+> Item 5:
+> What do you want to add?
+?  > 
+< Tomatoes
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 5
+> 
+> Item 6:
+> What do you want to add?
+?  > 
+< Pineapple
+> How many pieces/grams/milliliters of this item do you want to get?
+?  > 
+< 6
+> 
+> Item 7:
+> What do you want to add?
+?  > 
+< done
+> 
+> Shopping list: Mixed produce
+>  * 4 Cucumber
+>  * 3 Paprica
+>  * 2 Paprika
+>  * 6 Pineapple
+>  * 5 Tomatoes
+>  * 1 tomatoes
