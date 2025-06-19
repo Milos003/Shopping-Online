@@ -2,13 +2,6 @@
 
 This program implements a terminal-based shopping list manager for the ESP course.
 
-## 🧠 Learning Focus
-
-- Dynamic memory management in C (`malloc`, `calloc`, `realloc`, `free`)
-- Handling user input of arbitrary length
-- Sorting dynamically stored data
-- Validating input types and values
-
 ## 📋 What the Program Does
 
 - Prompts the user to name a shopping list
